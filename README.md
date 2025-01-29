@@ -18,7 +18,7 @@
 ## 🔧 Installazione  
 1. **Scarica lo script di installazione**  
    ```bash
-   git clone https://github.com/tuo-username/GhostSIGINT-OS.git
+   git clone https://github.com/Cyber-Intel-tech/GhostSIGINT-OS.git
    cd GhostSIGINT-OS
    chmod +x install.sh
    ./install.sh
